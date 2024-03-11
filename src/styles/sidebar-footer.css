@@ -213,4 +213,9 @@ p.text-subtitle {
     padding: 14px 32px;
     border-radius: 40px;
     border: none;
+    transition: 0.4s;
+}
+
+.footer__container__button:hover {
+    transform: scale(1.06);
 }
